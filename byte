@@ -1,0 +1,46 @@
+! ---------------------------------
+! ~/.colours/byte
+! ---------------------------------
+
+*background:	#1F1F1F
+*foreground:	#ffffff
+
+! Black
+
+*color0:	#404040
+*color8:	#505050
+
+! Red
+
+*color1:	#FF6B6B
+*color9:	#C44D58
+
+! Green
+
+*color2:	#B7D37B
+*color10:	#EFFAB4
+
+! Yellow
+
+*color3:	#ECE5CE
+*color11:	#F1D4AF
+
+! Blue
+
+*color4:	#556270
+*color12:	#A3B2C2
+
+! Magenta
+
+*color5:	#E33258
+*color13:	#BD1550
+
+! Cyan
+
+*color6:	#D5DED9
+*color14:	#99B2B7
+
+! White
+
+*color7:	#ECECEC
+*color15:	#f1f1f1
