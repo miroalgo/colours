@@ -2,9 +2,6 @@
 ! ~/.colours/byte
 ! ---------------------------------
 
-*background:	#1F1F1F
-*foreground:	#ffffff
-
 ! Black
 
 *color0:	#404040

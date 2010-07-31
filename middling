@@ -2,9 +2,6 @@
 ! ~/.colours/middling
 ! ---------------------------------
 
-*background:	#191919
-*foreground:	#ffffff
-
 ! Black
 
 *color0:	#404040

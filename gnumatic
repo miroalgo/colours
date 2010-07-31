@@ -2,9 +2,6 @@
 ! ~/.colours/gnumatic
 ! ---------------------------------
 
-*background:	#292929
-*foreground:	#ffffff
-
 ! Black
 
 *color0:	#404040

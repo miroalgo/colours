@@ -2,9 +2,6 @@
 ! ~/.colours/moe
 ! ---------------------------------
 
-*background:	#2B2B2B
-*foreground:	#ffffff
-
 ! Black
 
 *color0:	#404040

@@ -2,9 +2,6 @@
 ! ~/.colours/ky
 ! ---------------------------------
 
-*background:	#231F20
-*foreground:	#ffffff
-
 ! Black
 
 *color0:	#404040

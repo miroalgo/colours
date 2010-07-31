@@ -1,0 +1,43 @@
+! ---------------------------------
+! ~/.colours/econ
+! ---------------------------------
+
+! Black
+
+*color0:	#404040
+*color8:	#505050
+
+! Red
+
+*color1:	#E84A5F
+*color9:	#FF847C
+
+! Green
+
+*color2:	#99B898
+*color10:	#88A65E
+
+! Yellow
+
+*color3:	#F4E9DF
+*color11:	#FECEA8
+
+! Blue
+
+*color4:	#66AEF3
+*color12:	#B8D0DE
+
+! Magenta
+
+*color5:	#E8175D
+*color13:	#CC527A
+
+! Cyan
+
+*color6:	#ADD8C7
+*color14:	#8CCCBE
+
+! White
+
+*color7:	#d2d2d2
+*color15:	#ffffff
