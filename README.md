@@ -1,5 +1,5 @@
 # URxvt Colors #
 
-* Latest colorset is econ:
+* Latest colorset is 2d4u:
 
-![screenshot](http://omploader.org/vNTNycg)
+![screenshot](http://omploader.org/vNThpcQ)
