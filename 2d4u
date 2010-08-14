@@ -1,0 +1,43 @@
+! ---------------------
+! ~/.colours/2d4u
+! ---------------------
+
+! Black
+
+*color0:	#404040
+*color8:	#505050
+
+! Red
+
+*color1:	#CF4444
+*color9:	#92252A
+
+! Green
+
+*color2:	#79A84B
+*color10:	#91A84B
+
+! Yellow
+
+*color3:	#F7DC6E
+*color11:	#E7B06C
+
+! Blue
+
+*color4:	#456D95
+*color12:	#565E9D
+
+! Magenta
+
+*color5:	#B66C81
+*color13:	#D5A4BF
+
+! Cyan
+
+*color6:	#A4D3D5
+*color14:	#76BABD
+
+! White
+
+*color7:	#d2d2d2
+*color15:	#ffffff
