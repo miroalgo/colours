@@ -1,5 +1,5 @@
 # URxvt Colors #
 
-* Latest colorset is 2d4u:
+* Latest colorset is __:
 
-![screenshot](http://omploader.org/vNThpcQ)
+![screenshot]()
